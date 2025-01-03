@@ -1,6 +1,6 @@
 import { Umbrella, Circle, Activity, User } from 'react-feather';
-import Navbar from './components/Navbar';
-import TopNavbar from './components/TopNavbar';
+import Navbar from './components/navbar';
+import TopNavbar from './components/topnavbar';
 
 function App() {
   return (
